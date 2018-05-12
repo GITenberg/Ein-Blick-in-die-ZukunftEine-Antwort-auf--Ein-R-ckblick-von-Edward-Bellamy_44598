@@ -1,0 +1,32 @@
+_repo: Ein-Blick-in-die-ZukunftEine-Antwort-auf--Ein-R-ckblick-von-Edward-Bellamy_44598
+_version: 0.1.0
+alternative_title: Looking further forward. German
+covers:
+- cover_type: archival
+  image_path: 44598-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Michaelis, Richard
+    alias: Michaelis, Richard C.
+    birthdate: 1839
+    deathdate: 1909
+    gutenberg_agent_id: '7691'
+    url: http://www.gutenberg.org/2009/agents/7691
+description: ''
+gutenberg_issued: '2014-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44598'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Utopias -- Fiction'
+- !lcsh 'Utopian fiction'
+- !lcsh 'Bellamy, Edward, 1850-1898. Looking backward'
+- !lcc 'PS'
+title: 'Ein Blick in die Zukunft
+
+  Eine Antwort auf: Ein Rückblick von Edward Bellamy'
+url: http://www.gutenberg.org/ebooks/44598
